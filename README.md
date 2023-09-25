@@ -72,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Remember to add in ReadMe information about Jest, Cypress, Docker. Also using Prettier for code formatting. Styled components for CSS and creating reusable components.
 koa is in here too now
+also react router dom
+typescript too oh my
